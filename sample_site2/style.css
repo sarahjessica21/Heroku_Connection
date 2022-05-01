@@ -1,0 +1,26 @@
+#box {
+  border: 3px solid black;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  overflow: auto;
+  padding: 50px;
+}
+#mydata {
+  margin: 20px;
+  width: 80%;
+  margin: auto;
+  background: rgb(191, 228, 143);
+  height: 60px;
+  font-family: monospace;
+  font-size: 2em;
+  text-align: center;
+  border: 2px black solid;
+}
+#button {
+background: honeydew;
+color: hotpink;
+height: 30px;
+text-align: center;
+}
+
